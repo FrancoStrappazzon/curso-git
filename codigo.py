@@ -1,4 +1,4 @@
-nombre = "Soy Franco"
+nombre = "Soy Cofran"
 apellido = "Strappazzon"
 
 saludo = f'Hola {nombre} {apellido}  como estas?'
